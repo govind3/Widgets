@@ -1,21 +1,21 @@
 import React from 'react'
-import Accordion from './component/Accordion'
+// import Accordion from './component/Accordion'
 import Search from './component/Search';
 
-const items=[
-  {
-    title:'what is react?',
-    content:'React is front end javascript framework.',
-  },
-  {
-    title:'Why use ract?',
-    content:'React is a favorite js library for developer',
-  },
-  {
-    title:'how do you use react?',
-    content:'you use react by creating components',
-  },
-];
+// const items=[
+//   {
+//     title:'what is react?',
+//     content:'React is front end javascript framework.',
+//   },
+//   {
+//     title:'Why use ract?',
+//     content:'React is a favorite js library for developer',
+//   },
+//   {
+//     title:'how do you use react?',
+//     content:'you use react by creating components',
+//   },
+// ];
 
 const App=()=>{
   return (
